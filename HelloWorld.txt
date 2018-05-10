@@ -1,2 +1,3 @@
 HelloWord git
 system.out.printly()
+"你好git"
